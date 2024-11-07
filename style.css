@@ -135,3 +135,19 @@ figcaption {
     text-align: center;
     font-size: 1.5rem;
 }
+
+div.testimonial {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-color: #5f3e04;
+}
+
+h4 {
+    font-size: 1.8rem;
+    color: #1ce0b9;
+    text-align: center;
+    background-color: #5f3e04;
+    ;
+}
