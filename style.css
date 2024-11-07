@@ -85,6 +85,7 @@ button.join {
     background-color: #faa107;
     font-size: 1.2rem;
     border-radius: 50px;
+    text-align: center;
 }
 
 div.gallery-title {
@@ -150,4 +151,23 @@ h4 {
     text-align: center;
     background-color: #5f3e04;
     ;
+}
+
+form.follow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+
+}
+
+button.follow {
+    background-color: #faa107;
+    font-size: 1.5rem;
+    border-radius: 50px;
+    text-align: center;
+    flex-grow: 0;
+    width: 20%;
+    flex-basis: auto;
 }
