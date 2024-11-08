@@ -171,3 +171,7 @@ button.follow {
     width: 20%;
     flex-basis: auto;
 }
+
+.footer {
+    font-size: 1rem;
+}
